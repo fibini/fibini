@@ -4,11 +4,7 @@
 - 🔭 I’m currently working on A LeaderBoard Project
 - 
 - 🌱 I’m currently learning JavaScript, Html, CSS and React
-- 
-- 👯 I’m looking to collaborate on ...
-- 
-- 🤔 I’m looking for help with ...
-- 
+
 - 💬 Ask me about anything, if i can help i will
 - 
 - 📫 How to reach me: fabienswift@gmail.com
