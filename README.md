@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on A LeaderBoard Project
 - 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Html, CSS and React
 - 
 - 👯 I’m looking to collaborate on ...
 - 
