@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on A LeaderBoard Project
+- 🔭 I’m currently working on React projects
 - 
 - 🌱 I’m currently learning JavaScript, Html, CSS and React
 - 
