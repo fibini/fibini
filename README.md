@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on React projects
+- 🔭 I’m currently working on Three.js projects
 - 
-- 🌱 I’m currently learning JavaScript, Html, CSS, React, Three.js
+- 🌱 I’m currently learning Three.js
 - 
 - 💬 Ask me about anything, if i can help i will
 - 
