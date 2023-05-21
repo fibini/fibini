@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Three.js projects
+- 🔭 I’m currently working on React and Three.js projects
 - 
 - 🌱 I’m currently learning Three.js
 - 
